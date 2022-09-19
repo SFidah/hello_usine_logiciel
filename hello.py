@@ -1,4 +1,4 @@
 import time
-print("statpython...")
+print("nouvellephrase")
 time.sleep(60)
 print("bonjour python")
